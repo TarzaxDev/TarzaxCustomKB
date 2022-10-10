@@ -1,0 +1,6 @@
+name: TarzaxKB
+author: Tarzax
+version: 1.0.0
+api: 4.0.0
+main: tarzax\kb\Main
+website: https://github.com/TarzaxDev
